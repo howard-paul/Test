@@ -14,3 +14,4 @@ hello git
 
 dev write this line
 test master
+dev update test conflict 
